@@ -1,0 +1,4 @@
+Qrevy Assessmnet: Shabbir Bata 
+
+Simple web application developed in HTML CSS and BOOTSTRAP framework and uses PHP script to communicate with sql server.
+Deployed on Amazons Elastic BeanStalk and implemented CI/CD pipeline using Amazons CodePipeline.
